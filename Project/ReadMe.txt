@@ -1,0 +1,1 @@
+Сцена с проектом расположена Candy_new\Assets\Creator Kit - FPS\Scenes\Candy_new.unity

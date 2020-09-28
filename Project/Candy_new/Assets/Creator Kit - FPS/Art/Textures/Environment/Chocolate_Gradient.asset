@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!28 &-85160796608016638
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Gradient Texture
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  serializedVersion: 2
+  m_Width: 64
+  m_Height: 4
+  m_CompleteImageSize: 1404
+  m_MipsStripped: 0
+  m_TextureFormat: 5
+  m_MipCount: 7
+  m_IsReadable: 1
+  m_IsPreProcessed: 0
+  m_IgnoreMasterTextureLimit: 0
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  image data: 1404
+  _typelessdata: ff000000ff010101ff020101ff040202ff050202ff060303ff070303ff090404ff0a0404ff0b0505ff0c0505ff0e0606ff0f0606ff100707ff110707ff130808ff140808ff150909ff160909ff180a0aff190a0aff1a0b0bff1b0b0bff1d0c0cff1e0c0cff1f0d0dff200d0dff210e0eff230e0eff240f0fff250f0fff261010ff281010ff291111ff2a1111ff2b1212ff2d1212ff2e1313ff2f1313ff301414ff321414ff331515ff341515ff351616ff371616ff381717ff391717ff3a1818ff3c1818ff3d1919ff3e1919ff3f1a1aff411a1aff421b1bff431b1bff441c1cff451d1dff471d1dff481e1eff491e1eff4a1f1fff4c1f1fff4d2020ff4e2020ff000000ff010101ff020101ff040202ff050202ff060303ff070303ff090404ff0a0404ff0b0505ff0c0505ff0e0606ff0f0606ff100707ff110707ff130808ff140808ff150909ff160909ff180a0aff190a0aff1a0b0bff1b0b0bff1d0c0cff1e0c0cff1f0d0dff200d0dff210e0eff230e0eff240f0fff250f0fff261010ff281010ff291111ff2a1111ff2b1212ff2d1212ff2e1313ff2f1313ff301414ff321414ff331515ff341515ff351616ff371616ff381717ff391717ff3a1818ff3c1818ff3d1919ff3e1919ff3f1a1aff411a1aff421b1bff431b1bff441c1cff451d1dff471d1dff481e1eff491e1eff4a1f1fff4c1f1fff4d2020ff4e2020ff000000ff010101ff020101ff040202ff050202ff060303ff070303ff090404ff0a0404ff0b0505ff0c0505ff0e0606ff0f0606ff100707ff110707ff130808ff140808ff150909ff160909ff180a0aff190a0aff1a0b0bff1b0b0bff1d0c0cff1e0c0cff1f0d0dff200d0dff210e0eff230e0eff240f0fff250f0fff261010ff281010ff291111ff2a1111ff2b1212ff2d1212ff2e1313ff2f1313ff301414ff321414ff331515ff341515ff351616ff371616ff381717ff391717ff3a1818ff3c1818ff3d1919ff3e1919ff3f1a1aff411a1aff421b1bff431b1bff441c1cff451d1dff471d1dff481e1eff491e1eff4a1f1fff4c1f1fff4d2020ff4e2020ff000000ff010101ff020101ff040202ff050202ff060303ff070303ff090404ff0a0404ff0b0505ff0c0505ff0e0606ff0f0606ff100707ff110707ff130808ff140808ff150909ff160909ff180a0aff190a0aff1a0b0bff1b0b0bff1d0c0cff1e0c0cff1f0d0dff200d0dff210e0eff230e0eff240f0fff250f0fff261010ff281010ff291111ff2a1111ff2b1212ff2d1212ff2e1313ff2f1313ff301414ff321414ff331515ff341515ff351616ff371616ff381717ff391717ff3a1818ff3c1818ff3d1919ff3e1919ff3f1a1aff411a1aff421b1bff431b1bff441c1cff451d1dff471d1dff481e1eff491e1eff4a1f1fff4c1f1fff4d2020ff4e2020ff000000ff030101ff050202ff080303ff0a0404ff0d0505ff0f0606ff120707ff140808ff170909ff190a0aff1c0b0bff1e0c0cff200d0dff230e0eff250f0fff281010ff2a1111ff2d1212ff2f1313ff321414ff341515ff371616ff391717ff3c1818ff3e1919ff411a1aff431b1bff461d1dff481e1eff4b1f1fff4d2020ff000000ff030101ff050202ff080303ff0a0404ff0d0505ff0f0606ff120707ff140808ff170909ff190a0aff1c0b0bff1e0c0cff200d0dff230e0eff250f0fff281010ff2a1111ff2d1212ff2f1313ff321414ff341515ff371616ff391717ff3c1818ff3e1919ff411a1aff431b1bff461d1dff481e1eff4b1f1fff4d2020ff010000ff060202ff0b0404ff100606ff150808ff1a0a0aff1f0c0cff240e0eff291010ff2e1212ff331414ff381616ff3d1818ff421a1aff471d1dff4c1f1fff030101ff0d0505ff170909ff210d0dff2b1111ff351515ff3f1919ff491e1eff080303ff1c0b0bff301313ff441b1bff120707ff3a1717ff260f0f
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0810e87d9b9c44009e7af003b7a89b4, type: 3}
+  m_Name: Chocolate_Gradient
+  m_EditorClassIdentifier: 
+  gradient:
+    serializedVersion: 2
+    key0: {r: 0, g: 0, b: 0, a: 1}
+    key1: {r: 0.31132078, g: 0.12775901, b: 0.12775901, a: 1}
+    key2: {r: 1, g: 1, b: 1, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 65535
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+  width: 64
+  texture: {fileID: -85160796608016638}
